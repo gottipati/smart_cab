@@ -1,4 +1,4 @@
-# Project: Train a Smartcab How to Drive
+# Project: Train a Smartcab How to Drive using Reinforcement learning
 
 ## Project Overview
 Developed an efficient reinforcement learning model for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time
